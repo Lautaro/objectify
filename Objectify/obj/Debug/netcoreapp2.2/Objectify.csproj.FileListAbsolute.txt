@@ -1,0 +1,9 @@
+D:\Projects\Objectify\Objectify\bin\Debug\netcoreapp2.2\Objectify.deps.json
+D:\Projects\Objectify\Objectify\bin\Debug\netcoreapp2.2\Objectify.dll
+D:\Projects\Objectify\Objectify\bin\Debug\netcoreapp2.2\Objectify.pdb
+D:\Projects\Objectify\Objectify\obj\Debug\netcoreapp2.2\Objectify.csprojAssemblyReference.cache
+D:\Projects\Objectify\Objectify\obj\Debug\netcoreapp2.2\Objectify.csproj.CoreCompileInputs.cache
+D:\Projects\Objectify\Objectify\obj\Debug\netcoreapp2.2\Objectify.AssemblyInfoInputs.cache
+D:\Projects\Objectify\Objectify\obj\Debug\netcoreapp2.2\Objectify.AssemblyInfo.cs
+D:\Projects\Objectify\Objectify\obj\Debug\netcoreapp2.2\Objectify.dll
+D:\Projects\Objectify\Objectify\obj\Debug\netcoreapp2.2\Objectify.pdb
