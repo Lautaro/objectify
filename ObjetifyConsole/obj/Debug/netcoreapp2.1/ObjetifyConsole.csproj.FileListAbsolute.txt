@@ -1,0 +1,16 @@
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\TestData\TestData.txt
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\ObjetifyConsole.deps.json
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\ObjetifyConsole.runtimeconfig.json
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\ObjetifyConsole.runtimeconfig.dev.json
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\ObjetifyConsole.dll
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\ObjetifyConsole.pdb
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\Conzap.dll
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\Objectify.dll
+C:\projects\Objectify\Objectify\ObjetifyConsole\bin\Debug\netcoreapp2.1\Objectify.pdb
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.csprojAssemblyReference.cache
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.csproj.CoreCompileInputs.cache
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.AssemblyInfoInputs.cache
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.AssemblyInfo.cs
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.csproj.CopyComplete
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.dll
+C:\projects\Objectify\Objectify\ObjetifyConsole\obj\Debug\netcoreapp2.1\ObjetifyConsole.pdb

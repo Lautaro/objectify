@@ -1,3 +1,27 @@
-﻿Name: Lautaro
+﻿---PERSON
+Name: Lautaro
 Age:42
+Pets:
+	---PET
+	Name: Cath the cat
+	Age: 2
+	---PET
+	Name: Nemo
+	Age:1
+Tags:
+	Happy
+	Cool
+	Blue
+Numbers: 
+	121
+	2
+	65
+	44
 
+
+	CREATE NEW ENTITY
+		NEXT LINE: 
+		CHECK TYPE, 
+		CREATE NEW ENTITY, Property name, type and value
+			IF VALUE IS LIST
+		ADD ENTITY AS PROPERTY TO PARENT 

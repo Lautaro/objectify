@@ -1,0 +1,10 @@
+﻿---PERSON
+Name: Lautaro
+Age:42
+Pets:
+	---PET
+	Name: Cath the cat
+	Age: 2
+	---PET
+	Name: Nemo
+	Age:1

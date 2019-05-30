@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ObjetifyConsole/1.0.0": {
+        "dependencies": {
+          "Objectify": "1.0.0",
+          "Conzap": "1.0.0.0"
+        },
+        "runtime": {
+          "ObjetifyConsole.dll": {}
+        }
+      },
+      "Objectify/1.0.0": {
+        "runtime": {
+          "Objectify.dll": {}
+        }
+      },
+      "Conzap/1.0.0.0": {
+        "runtime": {
+          "Conzap.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjetifyConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Objectify/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conzap/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

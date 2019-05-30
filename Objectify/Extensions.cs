@@ -12,7 +12,7 @@ namespace Objectify
 
             if (string.IsNullOrEmpty(stringToSplit) || !stringToSplit.Contains(":"))
             {
-                throw new Exception("No proper delimiter found");
+                throw new Exception("No string that i can split and clean");
             }
 
             return stringToSplit
@@ -21,6 +21,20 @@ namespace Objectify
                 .Where(p => !string.IsNullOrEmpty(p))// remove empty items
                 .ToArray();
 
+        }
+
+        internal static string[] SplitAndClean(this string stringToSplit, string[] delimiters)
+        {
+            if (string.IsNullOrEmpty(stringToSplit) || delimiters.Length <= 0)
+            {
+                throw new Exception("No proper delimiter found");
+            }
+
+            return stringToSplit
+                .Split(delimiters,StringSplitOptions.RemoveEmptyEntries).ToList()// split
+                .Select(p => p.Trim())// trim each
+                .Where(p => !string.IsNullOrEmpty(p))// remove empty items
+                .ToArray();
         }
 
         internal static List<string[]> SplitAndClean(this string[] stringsToSplit, string delimiter)

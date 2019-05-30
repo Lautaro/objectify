@@ -12,7 +12,7 @@ namespace ObjetifyConsole
         static void Main(string[] args)
         {
             var text = GetFileContent();
-            var props = new StringToProperties(text).properties.ToDictionary(p => p[0], p => p[1]);
+            var props = new StringToObjectifyEntity(text).properties.ToDictionary(p => p[0], p => p[1]);
             var membersOfClass = new ParseToObject<MyClass>(props).ToString();
             //   Console.WriteLine($"Hello World! {NL} {props.ToString()}");
             ConzapTools.KeyInput(membersOfClass);
